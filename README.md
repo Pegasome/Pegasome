@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pegasome
 - 👀 I’m interested in Exploring Tech
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning ML and Webdev 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 reach me at https://www.linkedin.com/in/meenakshi-sharma-1b2641225
 
